@@ -5,3 +5,7 @@ Bem-vindo(a) à organização colaborativa dos alunos de Análise e Desenvolvime
 ## Projetos
 - ### PPC (Projeto Pedagógico de Curso) visual de Análise e Desenvolvimento de Sistemas (ADS) do IFSC SJ:
   - https://ifsc-ads-sj.github.io/ppc-ads/
+ 
+## Documentações e Estudos
+- ### Modelos Latex:
+  - https://github.com/ifsc-ads-sj/modelos-latex
