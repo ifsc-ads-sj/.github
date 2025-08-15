@@ -9,3 +9,4 @@ Bem-vindo(a) à organização colaborativa dos alunos de Análise e Desenvolvime
 ## Documentações e Estudos
 - ### Modelos Latex:
   - https://github.com/ifsc-ads-sj/modelos-latex
+  - https://github.com/ifsc-ads-sj/monografia-latex-ifsc
